@@ -121,26 +121,6 @@ featured_projects/
 [INFO] Preparing for future opportunities in cybersecurity
 ```
 
----
-
-### `$ ./github_stats.sh`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=frqXoXo&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=C9D1D9" alt="GitHub statistics" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frqXoXo&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9" alt="Most used languages" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=frqXoXo&theme=dark&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" alt="GitHub contribution streak" />
-
-</div>
-
----
-
 ### `$ cat connect.txt`
 
 <div align="center">
