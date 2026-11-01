@@ -3,7 +3,7 @@
 
 # `root@frqXoXo:~# whoami`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=750&lines=Faruqi+%7C+Informatics+Engineering+Student;Aspiring+Security+Analyst+%26+Network+Engineer;Cybersecurity+%7C+Networking+%7C+Digital+Forensics;Always+Learning.+Always+Building." alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=750&lines=%7C+Informatics+Engineering+Student;Aspiring+Security+Analyst+%26+Network+Engineer;Cybersecurity+%7C+Networking+%7C+Digital+Forensics;Always+Learning.+Always+Building." alt="Typing introduction" />
 
 <br>
 
@@ -28,8 +28,6 @@
 ### `$ cat about_me.txt`
 
 ```text
-Name       : Faruqi
-University : Universitas Brawijaya
 Major      : Informatics Engineering
 Focus      : Cybersecurity | Network Engineering | Digital Forensics
 Status     : Learning, building, and documenting
